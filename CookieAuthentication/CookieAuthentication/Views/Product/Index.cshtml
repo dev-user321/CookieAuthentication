@@ -1,0 +1,622 @@
+﻿@model ProductVM
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Commerce Shop</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: #f8f9fa;
+            color: #333;
+        }
+
+        header {
+            background-color: #fff;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 20px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .header-wrapper {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #3f51b5;
+        }
+
+        .search-bar {
+            flex: 1;
+            margin: 0 20px;
+        }
+
+            .search-bar input {
+                width: 100%;
+                padding: 10px 15px;
+                border: 1px solid #ddd;
+                border-radius: 30px;
+                outline: none;
+            }
+
+        .header-icons {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .icon-wrapper {
+            position: relative;
+            cursor: pointer;
+            font-size: 20px;
+        }
+
+        .cart-count {
+            position: absolute;
+            top: -8px;
+            right: -8px;
+            background-color: #ff5252;
+            color: white;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+        }
+
+        .main-content {
+            padding: 40px 0;
+        }
+
+        .products-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 30px;
+        }
+
+        .product-card {
+            background-color: #fff;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            transition: transform 0.3s ease;
+        }
+
+            .product-card:hover {
+                transform: translateY(-5px);
+            }
+
+        .product-image {
+            height: 200px;
+            background-color: #f5f5f5;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+            .product-image img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+
+        .product-info {
+            padding: 15px;
+        }
+
+        .product-name {
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #333;
+        }
+
+        .product-price {
+            font-weight: bold;
+            color: #3f51b5;
+            margin-bottom: 15px;
+        }
+
+        .btn {
+            padding: 8px 16px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: background-color 0.2s;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+        }
+
+        .btn-primary {
+            background-color: #3f51b5;
+            color: white;
+            flex: 1;
+        }
+
+            .btn-primary:hover {
+                background-color: #303f9f;
+            }
+
+        .btn-secondary {
+            background-color: #f5f5f5;
+            color: #333;
+            border: 1px solid #ddd;
+            flex: 1;
+        }
+
+            .btn-secondary:hover {
+                background-color: #e8e8e8;
+            }
+
+        .cart-modal {
+            position: fixed;
+            top: 0;
+            right: -400px;
+            width: 380px;
+            height: 100vh;
+            background-color: white;
+            box-shadow: -5px 0 15px rgba(0,0,0,0.1);
+            transition: right 0.3s ease;
+            z-index: 200;
+            overflow-y: auto;
+        }
+
+            .cart-modal.active {
+                right: 0;
+            }
+
+        .cart-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .close-cart {
+            background: none;
+            border: none;
+            font-size: 20px;
+            cursor: pointer;
+            color: #555;
+        }
+
+        .cart-items {
+            padding: 20px;
+        }
+
+        .cart-item {
+            display: flex;
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .cart-item-image {
+            width: 80px;
+            height: 80px;
+            margin-right: 15px;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+
+            .cart-item-image img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+
+        .cart-item-info {
+            flex: 1;
+        }
+
+        .cart-item-name {
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+
+        .cart-item-price {
+            color: #3f51b5;
+            font-weight: 500;
+        }
+
+        .cart-item-qty {
+            display: flex;
+            align-items: center;
+            margin-top: 5px;
+        }
+
+        .qty-btn {
+            width: 25px;
+            height: 25px;
+            border: 1px solid #ddd;
+            background: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+        }
+
+        .qty-count {
+            width: 30px;
+            height: 25px;
+            border: 1px solid #ddd;
+            border-left: none;
+            border-right: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .cart-footer {
+            padding: 20px;
+            border-top: 1px solid #eee;
+            position: sticky;
+            bottom: 0;
+            background-color: white;
+        }
+
+        .cart-total {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+
+        .checkout-btn {
+            background-color: #4caf50;
+            color: white;
+            padding: 12px 0;
+            border: none;
+            border-radius: 4px;
+            width: 100%;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+            .checkout-btn:hover {
+                background-color: #43a047;
+            }
+
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.5);
+            display: none;
+            z-index: 150;
+        }
+
+            .overlay.active {
+                display: block;
+            }
+
+        /* Pagination styles */
+        .pagination {
+            display: flex;
+            justify-content: center;
+            margin-top: 40px;
+            align-items: center;
+        }
+
+        .pagination-item {
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 5px;
+            border-radius: 50%;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+            .pagination-item:hover {
+                background-color: #e8eaf6;
+            }
+
+            .pagination-item.active {
+                background-color: #3f51b5;
+                color: white;
+            }
+
+        .pagination-arrow {
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 5px;
+            cursor: pointer;
+            font-size: 20px;
+            color: #666;
+        }
+
+            .pagination-arrow:hover {
+                color: #3f51b5;
+            }
+
+        .admin-modal {
+            position: fixed;
+            top: 0;
+            right: -400px;
+            width: 380px;
+            height: 100vh;
+            background-color: white;
+            box-shadow: -5px 0 15px rgba(0,0,0,0.1);
+            transition: right 0.3s ease;
+            z-index: 200;
+            overflow-y: auto;
+        }
+
+            .admin-modal.active {
+                right: 0;
+            }
+
+        .admin-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            border-bottom: 1px solid #eee;
+            background-color: #3f51b5;
+            color: white;
+        }
+
+        .admin-content {
+            padding: 20px;
+        }
+
+        .admin-menu {
+            list-style: none;
+        }
+
+            .admin-menu li {
+                padding: 12px 0;
+                border-bottom: 1px solid #eee;
+            }
+
+                .admin-menu li a {
+                    text-decoration: none;
+                    color: #333;
+                    display: flex;
+                    align-items: center;
+                }
+
+                    .admin-menu li a:hover {
+                        color: #3f51b5;
+                    }
+
+        .menu-icon {
+            margin-right: 10px;
+            width: 20px;
+            text-align: center;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+            .button-group a {
+                text-decoration: none;
+                padding: 10px 20px;
+                background-color: #4CAF50; /* yaşıl */
+                color: white;
+                border-radius: 8px;
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                transition: background-color 0.3s, transform 0.2s;
+                font-weight: 500;
+                font-size: 14px;
+            }
+
+                .button-group a:hover {
+                    background-color: #45a049;
+                    transform: translateY(-2px);
+                }
+
+                .button-group a:nth-child(2) {
+                    background-color: #2196F3; /* mavi */
+                }
+
+                    .button-group a:nth-child(2):hover {
+                        background-color: #1976D2;
+                    }
+
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-wrapper">
+                <div class="logo">ShopAZ</div>
+                @* <div class="search-bar"> *@
+                @*     <input type="text" placeholder="Axtarış..."> *@
+                @* </div> *@
+                <div class="header-icons">
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <div class="icon-wrapper" onclick="toggleAdmin()">
+
+                            <a asp-area="AdminPanel" asp-controller="Dashboard" asp-action="Index">
+                                👤 <!-- Admin Icon -->
+                            </a>
+                        </div>
+                    }
+                    <div class="icon-wrapper" onclick="toggleCart()">
+                        🛒 <!-- Cart Icon -->
+                    </div>
+                    <div class="icon-wrapper">
+                        <a asp-controller="Account" asp-action="Logout" type="submit" title="Logout" style="background:none; border:none; cursor:pointer; text-decoration:none; color : cornflowerblue">
+                            Logout <!-- Logout Icon -->
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="main-content">
+        <div class="container">
+            <div class="products-grid">
+
+                @foreach (var product in Model.Products)
+                {
+                    <!-- Product 1 -->
+                    <div class="product-card">
+                        <div class="product-image">
+                            <img src="~/img/@product.Images.FirstOrDefault(m=>m.IsMain).Image" alt="Kişi Köynəyi">
+                        </div>
+                        <div class="product-info">
+                            <h3 class="product-name">@product.Title</h3>
+                            <div class="product-price">@product.Price AZN</div>
+                            <div class="button-group">
+                                <form asp-controller="Product"
+                                      asp-action="Detail"
+                                      asp-route-slug="@product.Slug"
+                                      method="post">
+                                    <input type="hidden" name="id" value="@product.Id" />
+                                    <button type="submit" class="btn btn-primary shadow-0 text-white">
+                                        Detail
+                                    </button>
+                                </form>
+                                @* <a asp-controller="Product" asp-action="Detail" asp-route-id="@product.Id">Ətraflı</a> *@
+                                <a asp-controller="Product" asp-action="AddBasket" asp-route-id="@product.Id">Səbətə Əlavə Et</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+
+            <!-- Pagination -->
+            @* <div class="pagination"> *@
+            @*     <div class="pagination-arrow">◀</div> *@
+            @*     <div class="pagination-item active">1</div> *@
+            @*     <div class="pagination-item">2</div> *@
+            @*     <div class="pagination-item">3</div> *@
+            @*     <div class="pagination-item">4</div> *@
+            @*     <div class="pagination-item">5</div> *@
+            @*     <div class="pagination-arrow">▶</div> *@
+            @* </div> *@
+        </div>
+    </div>
+
+    <!-- Shopping Cart Modal -->
+    <div class="cart-modal" id="cartModal">
+        <div class="cart-header">
+            <h2>Səbət</h2>
+            <button class="close-cart" onclick="toggleCart()">✕</button>
+        </div>
+        <div class="cart-items">
+            @foreach (var basket in Model.Baskets)
+            {
+                <!-- Cart Item 1 -->
+                <div class="cart-item">
+                    <div class="cart-item-image">
+                        <img src="~/img/@basket.ProductImage" alt="Product">
+                    </div>
+                    <div class="cart-item-info">
+                        <div class="cart-item-name">@basket.ProductName</div>
+                        <div class="cart-item-price">@basket.Price AZN</div>
+                        <div class="cart-item-qty">
+                            <div class="qty-count">@basket.Count</div>
+                        </div>
+                        <div>
+                            <a asp-controller="Product" asp-action="RemoveBasket" asp-route-id="@basket.Id" style="text-decoration:none"> Remove </a>
+                        </div>
+                    </div>
+                </div>
+            }
+
+
+
+
+        </div>
+        <div class="cart-footer">
+            @* <div class="cart-total"> *@
+            @*     <span>Cəmi:</span> *@
+            @*     <span>249.97 AZN</span> *@
+            @* </div> *@
+            <button class="checkout-btn">Sifarişi Tamamla</button>
+        </div>
+    </div>
+
+    <!-- Admin Panel Modal -->
+    <div class="admin-modal" id="adminModal">
+        <div class="admin-header">
+            <h2>Admin Panel</h2>
+            <button class="close-cart" onclick="toggleAdmin()">✕</button>
+        </div>
+        <div class="admin-content">
+            <ul class="admin-menu">
+                <li><a href="#"><span class="menu-icon">📊</span> Dashboard</a></li>
+                <li><a href="#"><span class="menu-icon">📦</span> Məhsullar</a></li>
+                <li><a href="#"><span class="menu-icon">🛒</span> Sifarişlər</a></li>
+                <li><a href="#"><span class="menu-icon">👥</span> Müştərilər</a></li>
+                <li><a href="#"><span class="menu-icon">🏷️</span> Kateqoriyalar</a></li>
+                <li><a href="#"><span class="menu-icon">💰</span> Endirim kodları</a></li>
+                <li><a href="#"><span class="menu-icon">📝</span> Bloq</a></li>
+                <li><a href="#"><span class="menu-icon">⚙️</span> Tənzimləmələr</a></li>
+                <li><a href="#"><span class="menu-icon">📤</span> Çıxış</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="overlay" id="overlay" onclick="closeModals()"></div>
+
+    <script>
+        function toggleCart() {
+            document.getElementById('cartModal').classList.toggle('active');
+            document.getElementById('overlay').classList.toggle('active');
+            // Make sure admin modal is closed
+            document.getElementById('adminModal').classList.remove('active');
+        }
+
+        function toggleAdmin() {
+            document.getElementById('adminModal').classList.toggle('active');
+            document.getElementById('overlay').classList.toggle('active');
+            // Make sure cart modal is closed
+            document.getElementById('cartModal').classList.remove('active');
+        }
+
+        function closeModals() {
+            document.getElementById('cartModal').classList.remove('active');
+            document.getElementById('adminModal').classList.remove('active');
+            document.getElementById('overlay').classList.remove('active');
+        }
+    </script>
+</body>
+</html>

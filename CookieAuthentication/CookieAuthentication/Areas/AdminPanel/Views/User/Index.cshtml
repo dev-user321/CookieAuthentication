@@ -1,0 +1,125 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/AdminPanel/Views/Shared/_AdminLayout.cshtml";
+}
+
+@model List<AppUser>
+<style>
+    body {
+        font-family: 'Segoe UI', sans-serif;
+        background-color: #f5f7fa;
+    }
+
+    .table-container {
+        margin: 40px auto;
+        width: 95%;
+        overflow: hidden;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: #fff;
+    }
+
+    thead th,
+    tfoot td {
+        position: sticky;
+        background-color: #4A90E2;
+        color: white;
+        top: 0;
+        z-index: 2;
+        text-align: center;
+        padding: 12px;
+        font-size: 16px;
+    }
+
+    tfoot td {
+        bottom: 0;
+        top: unset;
+        background-color: #3E7BCF;
+    }
+
+    tbody td,
+    tbody th {
+        padding: 10px;
+        border: 1px solid #e0e0e0;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    tbody tr:nth-child(even) {
+        background-color: #f2f7fc;
+    }
+
+    tbody tr:hover {
+        background-color: #e6f1ff;
+    }
+
+    /* First column fix */
+    tbody th,
+    thead th:first-child,
+    tfoot td:first-child {
+        position: sticky;
+        left: 0;
+        background-color: #4A90E2;
+        color: white;
+        z-index: 3;
+        text-align: left;
+    }
+
+    tfoot td:first-child {
+        background-color: #3E7BCF;
+    }
+</style>
+
+<div class="table-container">
+
+    @* <div style="margin-bottom:20px; margin-left:20px;"> *@
+    @*     <a asp-area="AdminPanel" asp-controller="User" asp-action="Create" style="padding: 6px 12px; background-color: forestgreen; border: none; color: white; border-radius: 6px; text-decoration: none; font-weight: 500; transition: background-color 0.3s;">Create</a> *@
+
+    @* </div> *@
+    <table>
+        <thead>
+            <tr>
+                <th>FullName</th>
+                <th>Email</th>
+                <th>Username</th>
+                <th>Password</th>
+                <th>Role</th>
+                <th>Created Time</th>
+                <th>Setting</th>
+               
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <th>@user.FullName</th>
+                    <td>@user.Email</td>
+                    <td>@user.Username</td>
+                    <td>@user.Password.Substring(0,15)... </td>
+                    <td>@user.Role</td>
+                    <td>@user.CreateTime</td>
+                    <td>
+
+                        <div style="margin-bottom:20px;">
+                            <a asp-area="AdminPanel" asp-controller="User" asp-action="ChangeRole" asp-route-id="@user.Id" style="padding: 6px 12px; background-color: cadetblue; border: none; color: white; border-radius: 6px; text-decoration: none; font-weight: 500; transition: background-color 0.3s;">Change</a>
+
+                        </div>
+              
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>
+
+

@@ -1,0 +1,74 @@
+﻿@model ProductUpdateVM
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Məhsul Əlavə Et</title>
+</head>
+<body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f7f9fc; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; min-height: 100vh;">
+
+    <div style="margin-bottom: 25px;">
+        <label style="display: block; font-weight: 600; color: #34495e; font-size: 14px; margin-bottom: 10px;">Mövcud Şəkillər</label>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+            @foreach (var image in Model.ProductImages)
+            {
+                <div style="position: relative; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+                    <img src="~/img/@image.Image" style="width: 80px; height: 80px; object-fit: cover; display: block;" alt="Məhsul şəkli" />
+                </div>
+            }
+        </div>
+    </div>
+    <div style="width: 90%; max-width: 600px; background-color: white; border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); padding: 30px; margin: 20px;">
+        <h1 style="text-align: center; color: #2c3e50; margin-bottom: 30px; font-size: 24px;">Məhsulda deyisiklik Et</h1>
+
+
+        <form style="display: flex; flex-direction: column; gap: 20px;" method="post" asp-area="AdminPanel" asp-controller="Product" asp-action="Edit" enctype="multipart/form-data">
+            
+            <div asp-validation-summary="All"></div>
+            <!-- Title input -->
+            <div style="display: flex; flex-direction: column; gap: 8px;">
+                <label for="title" style="font-weight: 600; color: #34495e; font-size: 14px;">Başlıq</label>
+                <input asp-for="Title" type="text" id="title" name="title" required style="padding: 12px 16px; border-radius: 8px; border: 1px solid #dcdfe6; font-size: 14px; outline: none; transition: border 0.3s ease;">
+            </div>
+
+            <!-- Description input -->
+            <div style="display: flex; flex-direction: column; gap: 8px;">
+                <label for="description" style="font-weight: 600; color: #34495e; font-size: 14px;">Təsvir</label>
+                <textarea asp-for="Description" id="description" name="description" rows="4" style="padding: 12px 16px; border-radius: 8px; border: 1px solid #dcdfe6; font-size: 14px; outline: none; resize: vertical; font-family: inherit; transition: border 0.3s ease;"></textarea>
+            </div>
+
+            <!-- Price input -->
+            <div style="display: flex; flex-direction: column; gap: 8px;">
+                <label for="price" style="font-weight: 600; color: #34495e; font-size: 14px;">Qiymət</label>
+                <div style="position: relative;">
+                    <input asp-for="Price" type="number" id="price" name="price" step="0.01" required style="padding: 12px 16px; padding-right: 40px; border-radius: 8px; border: 1px solid #dcdfe6; font-size: 14px; width: 100%; box-sizing: border-box; outline: none; transition: border 0.3s ease;">
+                    <span style="position: absolute; right: 12px; top: 50%; transform: translateY(-50%); color: #606266;">AZN</span>
+                </div>
+            </div>
+
+            <!-- Count input -->
+            <div style="display: flex; flex-direction: column; gap: 8px;">
+                <label for="count" style="font-weight: 600; color: #34495e; font-size: 14px;">Say</label>
+                <input asp-for="Count" type="number" id="count" name="count" min="1" required style="padding: 12px 16px; border-radius: 8px; border: 1px solid #dcdfe6; font-size: 14px; outline: none; transition: border 0.3s ease;">
+            </div>
+
+            <!-- Image upload input -->
+            <div style="display: flex; flex-direction: column; gap: 8px;">
+                <label for="count" style="font-weight: 600; color: #34495e; font-size: 14px;">Images</label>
+                <input asp-for="Photos" type="file" multiple style="padding: 12px 16px; border-radius: 8px; border: 1px solid #dcdfe6; font-size: 14px; outline: none; transition: border 0.3s ease;">
+            </div>
+
+            <!-- Submit button -->
+            <button type="submit" style="background-color: #3498db; color: white; border: none; border-radius: 8px; padding: 14px 20px; font-size: 16px; font-weight: 600; cursor: pointer; transition: background-color 0.3s ease; margin-top: 10px;">
+                Məhsulda Deyisiklik Et
+            </button>
+        </form>
+    </div>
+
+</body>
+</html>

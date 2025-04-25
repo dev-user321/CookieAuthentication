@@ -1,0 +1,34 @@
+﻿@model LoginVM
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Form</title>
+</head>
+<body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(135deg, #8e2de2, #4a00e0); height: 100vh; margin: 0; display: flex; justify-content: center; align-items: center;">
+    <div style="background-color: rgba(255, 255, 255, 0.9); border-radius: 15px; padding: 40px; width: 400px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);">
+        <h2 style="text-align: center; color: #4a00e0; margin-bottom: 30px; font-size: 28px;">Login</h2>
+
+        <form method="post" asp-controller="Account" asp-action="Login" enctype="multipart/form-data">
+            <div asp-validation-summary="All"></div>
+            <div style="margin-bottom: 25px;">
+                <label for="email" style="display: block; margin-bottom: 8px; color: #333; font-weight: 600;">Email</label>
+                <input asp-for="Email" type="email" id="email" style="width: 100%; padding: 12px; border: 2px solid #ddd; border-radius: 8px; font-size: 16px; transition: border-color 0.3s; box-sizing: border-box;" placeholder="Enter your email" required>
+            </div>
+
+            <div style="margin-bottom: 30px;">
+                <label for="password" style="display: block; margin-bottom: 8px; color: #333; font-weight: 600;">Password</label>
+                <input asp-for="Password" type="password" id="password" style="width: 100%; padding: 12px; border: 2px solid #ddd; border-radius: 8px; font-size: 16px; transition: border-color 0.3s; box-sizing: border-box;" placeholder="Enter your password" required>
+            </div>
+            <button type="submit" style="width: 100%; background: linear-gradient(135deg, #8e2de2, #4a00e0); color: white; padding: 14px; border: none; border-radius: 8px; font-size: 18px; font-weight: 600; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s; box-shadow: 0 4px 10px rgba(74, 0, 224, 0.3);">Sign In</button>
+
+            <p style="text-align: center; margin-top: 20px; color: #666;">Don't have an account? <a asp-controller="Account" asp-action="Register" style="color: #4a00e0; text-decoration: none; font-weight: 600;">Register</a></p>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,21 @@
+﻿@model int
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/AdminPanel/Views/Shared/_AdminLayout.cshtml";
+}
+
+<!-- Əsas Məzmun -->
+<div class="main-content">
+    <div class="header">
+        <h2>Welcome to the Admin Dashboard</h2>
+    </div>
+
+    <h1>Statistics</h1>
+
+    <!-- Kartlar -->
+    <div class="card">
+        <h3>Total Users</h3>
+        <p>@Model</p>
+        <button class="button">View Users</button>
+    </div>
+</div>

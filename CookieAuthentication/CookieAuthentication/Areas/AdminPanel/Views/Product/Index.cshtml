@@ -1,0 +1,125 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/AdminPanel/Views/Shared/_AdminLayout.cshtml";
+}
+@model List<Product>
+<style>
+    body {
+        font-family: 'Segoe UI', sans-serif;
+        background-color: #f5f7fa;
+    }
+
+    .table-container {
+        margin: 40px auto;
+        width: 95%;
+        overflow: hidden;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: #fff;
+    }
+
+    thead th,
+    tfoot td {
+        position: sticky;
+        background-color: #4A90E2;
+        color: white;
+        top: 0;
+        z-index: 2;
+        text-align: center;
+        padding: 12px;
+        font-size: 16px;
+    }
+
+    tfoot td {
+        bottom: 0;
+        top: unset;
+        background-color: #3E7BCF;
+    }
+
+    tbody td,
+    tbody th {
+        padding: 10px;
+        border: 1px solid #e0e0e0;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    tbody tr:nth-child(even) {
+        background-color: #f2f7fc;
+    }
+
+    tbody tr:hover {
+        background-color: #e6f1ff;
+    }
+
+    /* First column fix */
+    tbody th,
+    thead th:first-child,
+    tfoot td:first-child {
+        position: sticky;
+        left: 0;
+        background-color: #4A90E2;
+        color: white;
+        z-index: 3;
+        text-align: left;
+    }
+
+    tfoot td:first-child {
+        background-color: #3E7BCF;
+    }
+</style>
+
+<div class="table-container">
+
+    <div style="margin-bottom:20px; margin-left:20px;">
+        <a asp-area="AdminPanel" asp-controller="Product" asp-action="Create" style="padding: 6px 12px; background-color: forestgreen; border: none; color: white; border-radius: 6px; text-decoration: none; font-weight: 500; transition: background-color 0.3s;">Create</a>
+
+    </div>
+    <table>
+        <thead>
+            <tr>
+                <th>Image</th>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Count</th>
+                <th>Created Time</th>
+                <th>Setting</th>
+               
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var product in Model)
+            {
+                <tr>
+                    <th>
+                        <img src="~/img/@product.Images.FirstOrDefault(m=>m.IsMain).Image" style="width:80px;height:80px;"/>
+                    </th>
+                    <td>@product.Title</td>
+                    <td>@product.Description</td>
+                    <td>@product.Price AZN</td>
+                    <td>@product.Count</td>
+                    <td>@product.CreateTime</td>
+                    <td>
+                        
+                        <div style="margin-bottom:20px;">
+                            <a asp-area="AdminPanel" asp-controller="Product" asp-action="Edit" asp-route-id="@product.Id"B style="padding: 6px 12px; background-color: cadetblue; border: none; color: white; border-radius: 6px; text-decoration: none; font-weight: 500; transition: background-color 0.3s;">Update</a>
+
+                        </div>
+                        <div>
+                            <a asp-area="AdminPanel" asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id" style="padding: 6px 12px; background-color: crimson; border: none; color: white; border-radius: 6px; text-decoration: none; font-weight: 500; margin-left: 8px; transition: background-color 0.3s;" onclick="return confirm('Bu məhsulu silmək istədiyinizə əminsiniz?')">Delete</a>
+
+                        </div>
+                    </td>
+        
+                </tr>
+            }
+        </tbody>
+   
+    </table>
+</div>
