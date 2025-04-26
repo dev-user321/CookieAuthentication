@@ -1,4 +1,6 @@
+using CookieAuthentication.Areas.AdminPanel.Services;
 using CookieAuthentication.Data;
+using CookieAuthentication.Services;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Identity;
 
@@ -26,6 +28,13 @@ namespace CookieAuthentication
                 options.AccessDeniedPath = "/Account/AccessDenied"; 
             });
             builder.Services.AddAuthorization();
+            builder.Services.AddScoped<AccountService>();
+
+            builder.Services.AddScoped<ProductService>();
+            builder.Services.AddScoped<ProductAdminService>();
+            builder.Services.AddHttpContextAccessor();
+
+
 
             var app = builder.Build();
 

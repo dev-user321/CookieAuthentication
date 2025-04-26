@@ -54,48 +54,30 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\404ef8d4-ff11-495e-ae30-cb6035cad5b1.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\0c70ac81-f6e5-4292-9614-7db176cae8e7.png'))">
       <SourceType>Package</SourceType>
       <SourceId>CookieAuthentication</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CookieAuthentication</BasePath>
-      <RelativePath>img/404ef8d4-ff11-495e-ae30-cb6035cad5b1.png</RelativePath>
+      <RelativePath>img/0c70ac81-f6e5-4292-9614-7db176cae8e7.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vj41zn3nuz</Fingerprint>
-      <Integrity>S3xF0kr8FJ1ngKfVVEiJqBILzMsAXXOcV0d3IEVNhQ4=</Integrity>
+      <Fingerprint>fpzp6gdhhg</Fingerprint>
+      <Integrity>/WgS1E0WGUrI6CQ18IOSo5psLl9FpkIUxx0o2QPgKP8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\404ef8d4-ff11-495e-ae30-cb6035cad5b1.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\0c70ac81-f6e5-4292-9614-7db176cae8e7.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\820afdeb-2eb1-44ad-b997-763081acc120.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2e153aba-627a-4675-9539-73106f23ce40.png'))">
       <SourceType>Package</SourceType>
       <SourceId>CookieAuthentication</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CookieAuthentication</BasePath>
-      <RelativePath>img/820afdeb-2eb1-44ad-b997-763081acc120.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>40zqtx1t05</Fingerprint>
-      <Integrity>TBvG5KS+AFWOhJV81cgBpZs5QJA+iwjMoRpffrvD8rQ=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\820afdeb-2eb1-44ad-b997-763081acc120.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\9c848067-7bbe-4b97-b080-4ed7aceb5a93.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CookieAuthentication</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CookieAuthentication</BasePath>
-      <RelativePath>img/9c848067-7bbe-4b97-b080-4ed7aceb5a93.png</RelativePath>
+      <RelativePath>img/2e153aba-627a-4675-9539-73106f23ce40.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -106,25 +88,43 @@
       <Integrity>kxWnTEfttmNIOy7ba8gFpOVVh1ARIsqAWyXc8WYgAy8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\9c848067-7bbe-4b97-b080-4ed7aceb5a93.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2e153aba-627a-4675-9539-73106f23ce40.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\d418680a-7fec-4d96-b0be-09fccce7db24.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\57c0210e-d2dd-4ed3-a73d-870596ec0920.png'))">
       <SourceType>Package</SourceType>
       <SourceId>CookieAuthentication</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CookieAuthentication</BasePath>
-      <RelativePath>img/d418680a-7fec-4d96-b0be-09fccce7db24.png</RelativePath>
+      <RelativePath>img/57c0210e-d2dd-4ed3-a73d-870596ec0920.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>03vk1r9nnj</Fingerprint>
-      <Integrity>XBfaQtC1wUZxv6iK+7ZNuId94Z3udKIr+GUhuObA89c=</Integrity>
+      <Fingerprint>40zqtx1t05</Fingerprint>
+      <Integrity>TBvG5KS+AFWOhJV81cgBpZs5QJA+iwjMoRpffrvD8rQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\d418680a-7fec-4d96-b0be-09fccce7db24.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\57c0210e-d2dd-4ed3-a73d-870596ec0920.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\6d12189c-cc56-4c1e-81ad-98e108f89b94.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CookieAuthentication</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CookieAuthentication</BasePath>
+      <RelativePath>img/6d12189c-cc56-4c1e-81ad-98e108f89b94.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vj41zn3nuz</Fingerprint>
+      <Integrity>S3xF0kr8FJ1ngKfVVEiJqBILzMsAXXOcV0d3IEVNhQ4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\6d12189c-cc56-4c1e-81ad-98e108f89b94.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\download.jpg'))">
       <SourceType>Package</SourceType>
@@ -144,23 +144,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\download.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\e57e9e6a-167c-4d5f-a82a-7fac7ea089aa.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\f54d21ef-e0a3-4cf6-8bf4-dabd96b0b234.png'))">
       <SourceType>Package</SourceType>
       <SourceId>CookieAuthentication</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CookieAuthentication</BasePath>
-      <RelativePath>img/e57e9e6a-167c-4d5f-a82a-7fac7ea089aa.png</RelativePath>
+      <RelativePath>img/f54d21ef-e0a3-4cf6-8bf4-dabd96b0b234.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fpzp6gdhhg</Fingerprint>
-      <Integrity>/WgS1E0WGUrI6CQ18IOSo5psLl9FpkIUxx0o2QPgKP8=</Integrity>
+      <Fingerprint>03vk1r9nnj</Fingerprint>
+      <Integrity>XBfaQtC1wUZxv6iK+7ZNuId94Z3udKIr+GUhuObA89c=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\e57e9e6a-167c-4d5f-a82a-7fac7ea089aa.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\f54d21ef-e0a3-4cf6-8bf4-dabd96b0b234.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\OIP (1).jpg'))">
       <SourceType>Package</SourceType>

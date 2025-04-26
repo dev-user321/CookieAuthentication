@@ -242,6 +242,7 @@ C:\Users\Lenovo\Desktop\AspNet-Quiz\CookieAuthenticate\CookieAuthentication\Cook
 C:\Users\Lenovo\Desktop\AspNet-Quiz\CookieAuthenticate\CookieAuthentication\CookieAuthentication\obj\Debug\net8.0\CookieAuthentication.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Lenovo\Desktop\AspNet-Quiz\CookieAuthenticate\CookieAuthentication\CookieAuthentication\obj\Debug\net8.0\CookieAuthentication.RazorAssemblyInfo.cache
 C:\Users\Lenovo\Desktop\AspNet-Quiz\CookieAuthenticate\CookieAuthentication\CookieAuthentication\obj\Debug\net8.0\CookieAuthentication.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\AspNet-Quiz\CookieAuthenticate\CookieAuthentication\CookieAuthentication\obj\Debug\net8.0\CookieAuthentication.sourcelink.json
 C:\Users\Lenovo\Desktop\AspNet-Quiz\CookieAuthenticate\CookieAuthentication\CookieAuthentication\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Lenovo\Desktop\AspNet-Quiz\CookieAuthenticate\CookieAuthentication\CookieAuthentication\obj\Debug\net8.0\scopedcss\bundle\CookieAuthentication.styles.css
 C:\Users\Lenovo\Desktop\AspNet-Quiz\CookieAuthenticate\CookieAuthentication\CookieAuthentication\obj\Debug\net8.0\scopedcss\projectbundle\CookieAuthentication.bundle.scp.css

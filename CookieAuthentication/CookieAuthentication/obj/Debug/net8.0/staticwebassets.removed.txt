@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\AspNet-Quiz\CookieAuthenticate\CookieAuthentication\CookieAuthentication\wwwroot\img\0c70ac81-f6e5-4292-9614-7db176cae8e7.png
+C:\Users\Lenovo\Desktop\AspNet-Quiz\CookieAuthenticate\CookieAuthentication\CookieAuthentication\wwwroot\img\2e153aba-627a-4675-9539-73106f23ce40.png
+C:\Users\Lenovo\Desktop\AspNet-Quiz\CookieAuthenticate\CookieAuthentication\CookieAuthentication\wwwroot\img\57c0210e-d2dd-4ed3-a73d-870596ec0920.png
+C:\Users\Lenovo\Desktop\AspNet-Quiz\CookieAuthenticate\CookieAuthentication\CookieAuthentication\wwwroot\img\6d12189c-cc56-4c1e-81ad-98e108f89b94.png
+C:\Users\Lenovo\Desktop\AspNet-Quiz\CookieAuthenticate\CookieAuthentication\CookieAuthentication\wwwroot\img\f54d21ef-e0a3-4cf6-8bf4-dabd96b0b234.png

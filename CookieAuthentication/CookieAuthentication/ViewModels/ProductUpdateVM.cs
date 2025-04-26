@@ -14,6 +14,6 @@ namespace CookieAuthentication.ViewModels
         [Required]
         public int? Count { get; set; }
         public List<IFormFile>? Photos { get; set; }
-        public List<ProductImage> ProductImages { get; set; }
+        public List<ProductImage>? ProductImages { get; set; }
     }
 }

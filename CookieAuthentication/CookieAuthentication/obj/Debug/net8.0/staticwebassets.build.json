@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ao75fkwBKSMDPqCwaRMDH/aDkKmo7CZNl1Rmji9N7mk=",
+  "Hash": "68CIClK133ZmFr54IOLhRTuqJlZj6eRVHMqiGXRDVKg=",
   "Source": "CookieAuthentication",
   "BasePath": "_content/CookieAuthentication",
   "Mode": "Default",
@@ -101,12 +101,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\404ef8d4-ff11-495e-ae30-cb6035cad5b1.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\0c70ac81-f6e5-4292-9614-7db176cae8e7.png",
       "SourceId": "CookieAuthentication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\",
       "BasePath": "_content/CookieAuthentication",
-      "RelativePath": "img/404ef8d4-ff11-495e-ae30-cb6035cad5b1#[.{fingerprint}]?.png",
+      "RelativePath": "img/0c70ac81-f6e5-4292-9614-7db176cae8e7#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -115,40 +115,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vj41zn3nuz",
-      "Integrity": "S3xF0kr8FJ1ngKfVVEiJqBILzMsAXXOcV0d3IEVNhQ4=",
+      "Fingerprint": "fpzp6gdhhg",
+      "Integrity": "/WgS1E0WGUrI6CQ18IOSo5psLl9FpkIUxx0o2QPgKP8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\404ef8d4-ff11-495e-ae30-cb6035cad5b1.png"
+      "OriginalItemSpec": "wwwroot\\img\\0c70ac81-f6e5-4292-9614-7db176cae8e7.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\820afdeb-2eb1-44ad-b997-763081acc120.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\2e153aba-627a-4675-9539-73106f23ce40.png",
       "SourceId": "CookieAuthentication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\",
       "BasePath": "_content/CookieAuthentication",
-      "RelativePath": "img/820afdeb-2eb1-44ad-b997-763081acc120#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "40zqtx1t05",
-      "Integrity": "TBvG5KS+AFWOhJV81cgBpZs5QJA+iwjMoRpffrvD8rQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\820afdeb-2eb1-44ad-b997-763081acc120.png"
-    },
-    {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\9c848067-7bbe-4b97-b080-4ed7aceb5a93.png",
-      "SourceId": "CookieAuthentication",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\",
-      "BasePath": "_content/CookieAuthentication",
-      "RelativePath": "img/9c848067-7bbe-4b97-b080-4ed7aceb5a93#[.{fingerprint}]?.png",
+      "RelativePath": "img/2e153aba-627a-4675-9539-73106f23ce40#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -161,15 +140,15 @@
       "Integrity": "kxWnTEfttmNIOy7ba8gFpOVVh1ARIsqAWyXc8WYgAy8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\9c848067-7bbe-4b97-b080-4ed7aceb5a93.png"
+      "OriginalItemSpec": "wwwroot\\img\\2e153aba-627a-4675-9539-73106f23ce40.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\d418680a-7fec-4d96-b0be-09fccce7db24.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\57c0210e-d2dd-4ed3-a73d-870596ec0920.png",
       "SourceId": "CookieAuthentication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\",
       "BasePath": "_content/CookieAuthentication",
-      "RelativePath": "img/d418680a-7fec-4d96-b0be-09fccce7db24#[.{fingerprint}]?.png",
+      "RelativePath": "img/57c0210e-d2dd-4ed3-a73d-870596ec0920#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -178,11 +157,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "03vk1r9nnj",
-      "Integrity": "XBfaQtC1wUZxv6iK+7ZNuId94Z3udKIr+GUhuObA89c=",
+      "Fingerprint": "40zqtx1t05",
+      "Integrity": "TBvG5KS+AFWOhJV81cgBpZs5QJA+iwjMoRpffrvD8rQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\d418680a-7fec-4d96-b0be-09fccce7db24.png"
+      "OriginalItemSpec": "wwwroot\\img\\57c0210e-d2dd-4ed3-a73d-870596ec0920.png"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\6d12189c-cc56-4c1e-81ad-98e108f89b94.png",
+      "SourceId": "CookieAuthentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\",
+      "BasePath": "_content/CookieAuthentication",
+      "RelativePath": "img/6d12189c-cc56-4c1e-81ad-98e108f89b94#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vj41zn3nuz",
+      "Integrity": "S3xF0kr8FJ1ngKfVVEiJqBILzMsAXXOcV0d3IEVNhQ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\6d12189c-cc56-4c1e-81ad-98e108f89b94.png"
     },
     {
       "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\download.jpg",
@@ -206,12 +206,12 @@
       "OriginalItemSpec": "wwwroot\\img\\download.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\e57e9e6a-167c-4d5f-a82a-7fac7ea089aa.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\f54d21ef-e0a3-4cf6-8bf4-dabd96b0b234.png",
       "SourceId": "CookieAuthentication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\",
       "BasePath": "_content/CookieAuthentication",
-      "RelativePath": "img/e57e9e6a-167c-4d5f-a82a-7fac7ea089aa#[.{fingerprint}]?.png",
+      "RelativePath": "img/f54d21ef-e0a3-4cf6-8bf4-dabd96b0b234#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -220,11 +220,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fpzp6gdhhg",
-      "Integrity": "/WgS1E0WGUrI6CQ18IOSo5psLl9FpkIUxx0o2QPgKP8=",
+      "Fingerprint": "03vk1r9nnj",
+      "Integrity": "XBfaQtC1wUZxv6iK+7ZNuId94Z3udKIr+GUhuObA89c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\e57e9e6a-167c-4d5f-a82a-7fac7ea089aa.png"
+      "OriginalItemSpec": "wwwroot\\img\\f54d21ef-e0a3-4cf6-8bf4-dabd96b0b234.png"
     },
     {
       "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\OIP (1).jpg",
@@ -1574,7 +1574,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 16:20:02 GMT"
+          "Value": "Sat, 26 Apr 2025 03:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1619,7 +1619,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 16:20:02 GMT"
+          "Value": "Sat, 26 Apr 2025 03:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1664,7 +1664,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 16:20:02 GMT"
+          "Value": "Sat, 26 Apr 2025 03:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1701,7 +1701,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 16:20:02 GMT"
+          "Value": "Sat, 26 Apr 2025 03:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1880,8 +1880,8 @@
       ]
     },
     {
-      "Route": "img/404ef8d4-ff11-495e-ae30-cb6035cad5b1.png",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\404ef8d4-ff11-495e-ae30-cb6035cad5b1.png",
+      "Route": "img/0c70ac81-f6e5-4292-9614-7db176cae8e7.fpzp6gdhhg.png",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\0c70ac81-f6e5-4292-9614-7db176cae8e7.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1890,7 +1890,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "328855"
+          "Value": "18749"
         },
         {
           "Name": "Content-Type",
@@ -1898,48 +1898,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S3xF0kr8FJ1ngKfVVEiJqBILzMsAXXOcV0d3IEVNhQ4=\""
+          "Value": "\"/WgS1E0WGUrI6CQ18IOSo5psLl9FpkIUxx0o2QPgKP8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 16:32:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-S3xF0kr8FJ1ngKfVVEiJqBILzMsAXXOcV0d3IEVNhQ4="
-        }
-      ]
-    },
-    {
-      "Route": "img/404ef8d4-ff11-495e-ae30-cb6035cad5b1.vj41zn3nuz.png",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\404ef8d4-ff11-495e-ae30-cb6035cad5b1.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "328855"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"S3xF0kr8FJ1ngKfVVEiJqBILzMsAXXOcV0d3IEVNhQ4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 16:32:52 GMT"
+          "Value": "Sat, 26 Apr 2025 03:19:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1949,21 +1912,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vj41zn3nuz"
+          "Value": "fpzp6gdhhg"
         },
         {
           "Name": "label",
-          "Value": "img/404ef8d4-ff11-495e-ae30-cb6035cad5b1.png"
+          "Value": "img/0c70ac81-f6e5-4292-9614-7db176cae8e7.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-S3xF0kr8FJ1ngKfVVEiJqBILzMsAXXOcV0d3IEVNhQ4="
+          "Value": "sha256-/WgS1E0WGUrI6CQ18IOSo5psLl9FpkIUxx0o2QPgKP8="
         }
       ]
     },
     {
-      "Route": "img/820afdeb-2eb1-44ad-b997-763081acc120.40zqtx1t05.png",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\820afdeb-2eb1-44ad-b997-763081acc120.png",
+      "Route": "img/0c70ac81-f6e5-4292-9614-7db176cae8e7.png",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\0c70ac81-f6e5-4292-9614-7db176cae8e7.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1972,7 +1935,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "315555"
+          "Value": "18749"
         },
         {
           "Name": "Content-Type",
@@ -1980,56 +1943,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TBvG5KS+AFWOhJV81cgBpZs5QJA+iwjMoRpffrvD8rQ=\""
+          "Value": "\"/WgS1E0WGUrI6CQ18IOSo5psLl9FpkIUxx0o2QPgKP8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 16:32:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "40zqtx1t05"
-        },
-        {
-          "Name": "label",
-          "Value": "img/820afdeb-2eb1-44ad-b997-763081acc120.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-TBvG5KS+AFWOhJV81cgBpZs5QJA+iwjMoRpffrvD8rQ="
-        }
-      ]
-    },
-    {
-      "Route": "img/820afdeb-2eb1-44ad-b997-763081acc120.png",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\820afdeb-2eb1-44ad-b997-763081acc120.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "315555"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TBvG5KS+AFWOhJV81cgBpZs5QJA+iwjMoRpffrvD8rQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 16:32:52 GMT"
+          "Value": "Sat, 26 Apr 2025 03:19:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2039,13 +1957,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TBvG5KS+AFWOhJV81cgBpZs5QJA+iwjMoRpffrvD8rQ="
+          "Value": "sha256-/WgS1E0WGUrI6CQ18IOSo5psLl9FpkIUxx0o2QPgKP8="
         }
       ]
     },
     {
-      "Route": "img/9c848067-7bbe-4b97-b080-4ed7aceb5a93.jcpxn84tba.png",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\9c848067-7bbe-4b97-b080-4ed7aceb5a93.png",
+      "Route": "img/2e153aba-627a-4675-9539-73106f23ce40.jcpxn84tba.png",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\2e153aba-627a-4675-9539-73106f23ce40.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2066,7 +1984,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 16:32:52 GMT"
+          "Value": "Sat, 26 Apr 2025 03:19:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2080,7 +1998,7 @@
         },
         {
           "Name": "label",
-          "Value": "img/9c848067-7bbe-4b97-b080-4ed7aceb5a93.png"
+          "Value": "img/2e153aba-627a-4675-9539-73106f23ce40.png"
         },
         {
           "Name": "integrity",
@@ -2089,8 +2007,8 @@
       ]
     },
     {
-      "Route": "img/9c848067-7bbe-4b97-b080-4ed7aceb5a93.png",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\9c848067-7bbe-4b97-b080-4ed7aceb5a93.png",
+      "Route": "img/2e153aba-627a-4675-9539-73106f23ce40.png",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\2e153aba-627a-4675-9539-73106f23ce40.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2111,7 +2029,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 16:32:52 GMT"
+          "Value": "Sat, 26 Apr 2025 03:19:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2126,8 +2044,8 @@
       ]
     },
     {
-      "Route": "img/d418680a-7fec-4d96-b0be-09fccce7db24.03vk1r9nnj.png",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\d418680a-7fec-4d96-b0be-09fccce7db24.png",
+      "Route": "img/57c0210e-d2dd-4ed3-a73d-870596ec0920.40zqtx1t05.png",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\57c0210e-d2dd-4ed3-a73d-870596ec0920.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2136,7 +2054,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "284171"
+          "Value": "315555"
         },
         {
           "Name": "Content-Type",
@@ -2144,11 +2062,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XBfaQtC1wUZxv6iK+7ZNuId94Z3udKIr+GUhuObA89c=\""
+          "Value": "\"TBvG5KS+AFWOhJV81cgBpZs5QJA+iwjMoRpffrvD8rQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 16:32:52 GMT"
+          "Value": "Sat, 26 Apr 2025 03:19:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2158,21 +2076,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "03vk1r9nnj"
+          "Value": "40zqtx1t05"
         },
         {
           "Name": "label",
-          "Value": "img/d418680a-7fec-4d96-b0be-09fccce7db24.png"
+          "Value": "img/57c0210e-d2dd-4ed3-a73d-870596ec0920.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XBfaQtC1wUZxv6iK+7ZNuId94Z3udKIr+GUhuObA89c="
+          "Value": "sha256-TBvG5KS+AFWOhJV81cgBpZs5QJA+iwjMoRpffrvD8rQ="
         }
       ]
     },
     {
-      "Route": "img/d418680a-7fec-4d96-b0be-09fccce7db24.png",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\d418680a-7fec-4d96-b0be-09fccce7db24.png",
+      "Route": "img/57c0210e-d2dd-4ed3-a73d-870596ec0920.png",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\57c0210e-d2dd-4ed3-a73d-870596ec0920.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2181,7 +2099,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "284171"
+          "Value": "315555"
         },
         {
           "Name": "Content-Type",
@@ -2189,11 +2107,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XBfaQtC1wUZxv6iK+7ZNuId94Z3udKIr+GUhuObA89c=\""
+          "Value": "\"TBvG5KS+AFWOhJV81cgBpZs5QJA+iwjMoRpffrvD8rQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 16:32:52 GMT"
+          "Value": "Sat, 26 Apr 2025 03:19:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2203,7 +2121,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XBfaQtC1wUZxv6iK+7ZNuId94Z3udKIr+GUhuObA89c="
+          "Value": "sha256-TBvG5KS+AFWOhJV81cgBpZs5QJA+iwjMoRpffrvD8rQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/6d12189c-cc56-4c1e-81ad-98e108f89b94.png",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\6d12189c-cc56-4c1e-81ad-98e108f89b94.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S3xF0kr8FJ1ngKfVVEiJqBILzMsAXXOcV0d3IEVNhQ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 03:19:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S3xF0kr8FJ1ngKfVVEiJqBILzMsAXXOcV0d3IEVNhQ4="
+        }
+      ]
+    },
+    {
+      "Route": "img/6d12189c-cc56-4c1e-81ad-98e108f89b94.vj41zn3nuz.png",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\6d12189c-cc56-4c1e-81ad-98e108f89b94.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S3xF0kr8FJ1ngKfVVEiJqBILzMsAXXOcV0d3IEVNhQ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 03:19:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vj41zn3nuz"
+        },
+        {
+          "Name": "label",
+          "Value": "img/6d12189c-cc56-4c1e-81ad-98e108f89b94.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S3xF0kr8FJ1ngKfVVEiJqBILzMsAXXOcV0d3IEVNhQ4="
         }
       ]
     },
@@ -2290,8 +2290,8 @@
       ]
     },
     {
-      "Route": "img/e57e9e6a-167c-4d5f-a82a-7fac7ea089aa.fpzp6gdhhg.png",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\e57e9e6a-167c-4d5f-a82a-7fac7ea089aa.png",
+      "Route": "img/f54d21ef-e0a3-4cf6-8bf4-dabd96b0b234.03vk1r9nnj.png",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\f54d21ef-e0a3-4cf6-8bf4-dabd96b0b234.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2300,7 +2300,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18749"
+          "Value": "284171"
         },
         {
           "Name": "Content-Type",
@@ -2308,11 +2308,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/WgS1E0WGUrI6CQ18IOSo5psLl9FpkIUxx0o2QPgKP8=\""
+          "Value": "\"XBfaQtC1wUZxv6iK+7ZNuId94Z3udKIr+GUhuObA89c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 16:32:52 GMT"
+          "Value": "Sat, 26 Apr 2025 03:19:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2322,21 +2322,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fpzp6gdhhg"
+          "Value": "03vk1r9nnj"
         },
         {
           "Name": "label",
-          "Value": "img/e57e9e6a-167c-4d5f-a82a-7fac7ea089aa.png"
+          "Value": "img/f54d21ef-e0a3-4cf6-8bf4-dabd96b0b234.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/WgS1E0WGUrI6CQ18IOSo5psLl9FpkIUxx0o2QPgKP8="
+          "Value": "sha256-XBfaQtC1wUZxv6iK+7ZNuId94Z3udKIr+GUhuObA89c="
         }
       ]
     },
     {
-      "Route": "img/e57e9e6a-167c-4d5f-a82a-7fac7ea089aa.png",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\e57e9e6a-167c-4d5f-a82a-7fac7ea089aa.png",
+      "Route": "img/f54d21ef-e0a3-4cf6-8bf4-dabd96b0b234.png",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\wwwroot\\img\\f54d21ef-e0a3-4cf6-8bf4-dabd96b0b234.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2345,7 +2345,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18749"
+          "Value": "284171"
         },
         {
           "Name": "Content-Type",
@@ -2353,11 +2353,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/WgS1E0WGUrI6CQ18IOSo5psLl9FpkIUxx0o2QPgKP8=\""
+          "Value": "\"XBfaQtC1wUZxv6iK+7ZNuId94Z3udKIr+GUhuObA89c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 16:32:52 GMT"
+          "Value": "Sat, 26 Apr 2025 03:19:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2367,7 +2367,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/WgS1E0WGUrI6CQ18IOSo5psLl9FpkIUxx0o2QPgKP8="
+          "Value": "sha256-XBfaQtC1wUZxv6iK+7ZNuId94Z3udKIr+GUhuObA89c="
         }
       ]
     },

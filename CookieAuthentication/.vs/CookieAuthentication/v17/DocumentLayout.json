@@ -7,12 +7,32 @@
       "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\areas\\adminpanel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\areas\\adminpanel\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\areas\\adminpanel\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\areas\\adminpanel\\services\\productadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\areas\\adminpanel\\services\\productadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\viewmodels\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\viewmodels\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\areas\\adminpanel\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\areas\\adminpanel\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\areas\\adminpanel\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +43,28 @@
       "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\areas\\adminpanel\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,32 +75,12 @@
       "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\areas\\adminpanel\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\areas\\adminpanel\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\areas\\adminpanel\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\areas\\adminpanel\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\areas\\adminpanel\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\cookieauthentication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -81,10 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\helper\\passwordhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\helper\\passwordhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -113,10 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\viewmodels\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\viewmodels\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0FB390D-8593-46F8-938A-1B1A61AB4AFA}|CookieAuthentication\\CookieAuthentication.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\cookieauthenticate\\cookieauthentication\\cookieauthentication\\viewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -182,7 +194,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 23,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Bookmark",
@@ -202,7 +214,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ProductAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Services\\ProductAdminService.cs",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Areas\\AdminPanel\\Services\\ProductAdminService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Services\\ProductAdminService.cs",
+              "RelativeToolTip": "CookieAuthentication\\Areas\\AdminPanel\\Services\\ProductAdminService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAewGUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T02:52:06.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Services\\ProductService.cs",
+              "RelativeToolTip": "CookieAuthentication\\Services\\ProductService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwDwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T02:48:30.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Services\\AccountService.cs",
+              "RelativeToolTip": "CookieAuthentication\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T02:43:56.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
@@ -214,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "CookieAuthentication",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\CookieAuthentication.csproj",
               "RelativeDocumentMoniker": "CookieAuthentication\\CookieAuthentication.csproj",
@@ -225,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "SlugHelper.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Helper\\SlugHelper.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Helper\\SlugHelper.cs",
@@ -237,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "PasswordHash.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Helper\\PasswordHash.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Helper\\PasswordHash.cs",
@@ -249,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "20250420101816_UpdateBasketTable.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Migrations\\20250420101816_UpdateBasketTable.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Migrations\\20250420101816_UpdateBasketTable.cs",
@@ -261,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "BasketVM.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\ViewModels\\BasketVM.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\ViewModels\\BasketVM.cs",
@@ -273,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "ProductVM.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\ViewModels\\ProductVM.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\ViewModels\\ProductVM.cs",
@@ -285,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "20250420092557_CreateBasketTable.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Migrations\\20250420092557_CreateBasketTable.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Migrations\\20250420092557_CreateBasketTable.cs",
@@ -297,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Basket.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Models\\Basket.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Models\\Basket.cs",
@@ -309,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "AccessDenied.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Views\\Account\\AccessDenied.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Views\\Account\\AccessDenied.cshtml",
@@ -321,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Areas\\AdminPanel\\Views\\User\\Index.cshtml",
@@ -333,43 +382,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Areas\\AdminPanel\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Controllers\\UserController.cs",
               "RelativeToolTip": "CookieAuthentication\\Areas\\AdminPanel\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T05:48:53.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 3,
               "Title": "ProductUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\ViewModels\\ProductUpdateVM.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\ViewModels\\ProductUpdateVM.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\ViewModels\\ProductUpdateVM.cs",
               "RelativeToolTip": "CookieAuthentication\\ViewModels\\ProductUpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T05:13:59.977Z"
+              "WhenOpened": "2025-04-20T05:13:59.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Areas\\AdminPanel\\Views\\Product\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Views\\Product\\Edit.cshtml",
               "RelativeToolTip": "CookieAuthentication\\Areas\\AdminPanel\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T05:13:11.91Z"
+              "WhenOpened": "2025-04-20T05:13:11.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "ProductCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\ViewModels\\ProductCreateVM.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\ViewModels\\ProductCreateVM.cs",
@@ -381,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
@@ -393,19 +444,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "CookieAuthentication\\Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAGsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAG4AAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T16:54:57.25Z"
+              "WhenOpened": "2025-04-19T16:54:57.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
@@ -417,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
@@ -435,14 +487,14 @@
               "RelativeDocumentMoniker": "CookieAuthentication\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
               "RelativeToolTip": "CookieAuthentication\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T16:44:12.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "20250419153349_CreateProductAndProductImageTable.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Migrations\\20250419153349_CreateProductAndProductImageTable.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Migrations\\20250419153349_CreateProductAndProductImageTable.cs",
@@ -454,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Models\\ProductImage.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Models\\ProductImage.cs",
@@ -466,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Models\\Product.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Models\\Product.cs",
@@ -478,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
@@ -490,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "CookieAuthentication.csproj",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\CookieAuthentication.csproj",
               "RelativeDocumentMoniker": "CookieAuthentication\\CookieAuthentication.csproj",
@@ -502,19 +554,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Views\\Product\\Detail.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Views\\Product\\Detail.cshtml",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Views\\Product\\Detail.cshtml",
               "RelativeToolTip": "CookieAuthentication\\Views\\Product\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAPIBAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T14:34:46.469Z"
+              "WhenOpened": "2025-04-19T14:34:46.469Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Views\\Product\\Index.cshtml",
@@ -522,23 +575,24 @@
               "RelativeToolTip": "CookieAuthentication\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAMsBAAAAAAAAAAAAAN4BAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T14:32:24.421Z"
+              "WhenOpened": "2025-04-19T14:32:24.421Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Controllers\\ProductController.cs",
               "RelativeToolTip": "CookieAuthentication\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T14:32:04.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\ViewModels\\LoginVM.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\ViewModels\\LoginVM.cs",
@@ -550,7 +604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Views\\_ViewImports.cshtml",
@@ -562,7 +616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "20250419123708_CreateUserTable.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Migrations\\20250419123708_CreateUserTable.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Migrations\\20250419123708_CreateUserTable.cs",
@@ -574,7 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\ViewModels\\RegisterVM.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\ViewModels\\RegisterVM.cs",
@@ -586,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Views\\Account\\Login.cshtml",
@@ -598,7 +652,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Views\\Account\\Register.cshtml",
@@ -610,19 +664,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 14,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Controllers\\AccountController.cs",
               "RelativeToolTip": "CookieAuthentication\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T12:18:19.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Models\\AppUser.cs",
@@ -634,7 +688,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Models\\BaseEntity.cs",
@@ -646,7 +700,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\appsettings.json",
               "RelativeDocumentMoniker": "CookieAuthentication\\appsettings.json",
@@ -658,7 +712,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Data\\AppDbContext.cs",
@@ -670,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Views\\Shared\\_Layout.cshtml",
@@ -682,7 +736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CookieAuthentication\\Views\\Home\\Index.cshtml",
@@ -694,19 +748,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Program.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Program.cs",
               "RelativeToolTip": "CookieAuthentication\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwAEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T12:09:36.098Z"
+              "WhenOpened": "2025-04-19T12:09:36.098Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\CookieAuthenticate\\CookieAuthentication\\CookieAuthentication\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CookieAuthentication\\Controllers\\HomeController.cs",
